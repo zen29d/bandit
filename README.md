@@ -33,5 +33,5 @@
 | level29 | bbc96594b4e001778eee9975372716b2 | | ``cd /tmp/``<br>``git clone ssh://bandit29-git@localhost/home/bandit29-git/repo``<br>``git branch -a``<br>``git checkout dev``<br>``cat README`` |
 | level30 | 5b90576bedb2cc04c86a9e924ce42faf | | ``cd /tmp/``<br>`` git clone ssh://bandit30-git@localhost/home/bandit30-git/repo``<>br``git tag``<br>``git show <tah_name>`` |
 | level31 | 47e603bb428404d265f59c42920d81e5 | | ``cd /tmp/, git clone ssh://bandit31-git@localhost/home/bandit31-git/repo, echo 'May I come in?' >key.txt``<br>``git add key.txt``<br>``rm .gitignore``<br> ``git commit -m 'key31'``<br>`` git push`` |
-| level32 | 56a9bf19c63d650ce78e6ec0354ee45e | | ``$0, /bin/bash``<br>``cat /etc/bandit_pass/bandit33 ``|
+| level32 | 56a9bf19c63d650ce78e6ec0354ee45e | | ``$0``<br>``/bin/bash``<br>``cat /etc/bandit_pass/bandit33 ``|
 | level33 | c9c3199ddf4121b10cf581a98d51caee | | ``--FINISH ``|
